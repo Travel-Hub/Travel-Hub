@@ -88,7 +88,7 @@ Travel-Hub is a travel app to allow people to explore the world right at your fi
 <img src="https://i.imgur.com/xHbioPD.png" width=800>
 
 
-## Data Models
+### 4. Data Models
 |Property| Type | Description |
 |--------- | ----------| -----------|
 |ObjectId | String | Unique id for th user's post|
