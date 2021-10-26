@@ -7,6 +7,7 @@ Original App Design Project - README
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
+4. [Data Models](#Data Models)
 
 ## Overview
 ### Description
@@ -85,3 +86,8 @@ Travel-Hub is a travel app to allow people to explore the world right at your fi
 ## Wireframes
 
 <img src="https://i.imgur.com/xHbioPD.png" width=800>
+
+
+### 4. Data Models
+|Property| Type | Description |
+|objectId | String | Unique id for th user's post|
