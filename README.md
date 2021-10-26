@@ -8,6 +8,7 @@ Original App Design Project - README
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
 4. [Data Models](#Data-Models)
+5. [Networking](#Networking)
 
 ## Overview
 ### Description
@@ -99,3 +100,17 @@ Travel-Hub is a travel app to allow people to explore the world right at your fi
 |LikesCount | Number | Number of likes on a post |
 |Createdat | DateTime | Date and time when post was created |
 |Updatedat | DateTime | Date and time when post was updated |
+
+## Networking
+
+* Home Screen
+   * (READ/GET) Query all posts where user author
+   * (Create/POST) Create a new like on a post
+   * (Delete) Delete existing like
+   * (Create/POST) Create a new comment on a post
+   * (Delete) Delete existing comment
+* Create new post
+   * (Create/POST) Create a new post object
+* Profile Screen
+   * (Read/GET) Query logged in user object
+   * (Update/PUT) Update user profile image
