@@ -90,4 +90,5 @@ Travel-Hub is a travel app to allow people to explore the world right at your fi
 
 ### 4. Data Models
 |Property| Type | Description |
+|--------- | ----------| -----------|
 |objectId | String | Unique id for th user's post|
