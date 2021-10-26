@@ -88,7 +88,14 @@ Travel-Hub is a travel app to allow people to explore the world right at your fi
 <img src="https://i.imgur.com/xHbioPD.png" width=800>
 
 
-### 4. Data Models
+## Data Models
 |Property| Type | Description |
 |--------- | ----------| -----------|
-|objectId | String | Unique id for th user's post|
+|ObjectId | String | Unique id for th user's post|
+|User | Pointer to user | image from user |
+|Image| File | The image the user posts |
+|Caption | String | Image caption by user |
+|CommentCount | Number | Number of comments on a post |
+|LikesCount | Number | Number of likes on a post |
+|Createdat | DateTime | Date and time when post was created |
+|Updatedat | DateTime | Date and time when post was updated |
