@@ -119,7 +119,7 @@ Travel-Hub is a travel app to allow people to explore the world right at your fi
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/stanleynwakamma/MyTexgram/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Travel-Hub/Travel-Hub/blob/main/demo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
