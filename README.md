@@ -114,3 +114,7 @@ Travel-Hub is a travel app to allow people to explore the world right at your fi
 * Profile Screen
    * (Read/GET) Query logged in user object
    * (Update/PUT) Update user profile image
+
+## GIF
+https://github.com/Travel-Hub/Travel-Hub/blob/main/demo1.gif
+
