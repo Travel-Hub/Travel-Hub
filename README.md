@@ -29,19 +29,19 @@ Travel-Hub is a travel app to allow people to explore the world right at your fi
 
 **Required Must-have Stories**
 
-* User can explore map and view posts from around the world, seeing markers of all the places people have posted
-* User can create post from any location in the world from the map.
-* User can search for posts using hashtags or based on the location of their choice.
-* User can discover restaurants, museums, clubs, and hotels near a certain location
-* Profile pages for each user
-* Settings (Accesibility, Notification, General, etc.)
-*
+- [x] User can explore map and view posts from around the world, seeing markers of all the places people have posted
+- [x] User can create post from any location in the world from the map.
+- [x] User can search for posts using hashtags or based on the location of their choice.
+- [ ] User can discover restaurants, museums, clubs, and hotels near a certain location
+- [x] Profile pages for each user
+- [x] Settings (Accesibility, Notification, General, etc.)
+
 
 **Optional Nice-to-have Stories**
-* Google talk-back for visually impaired people
-* Landscape mode
-* Custom markers on Google maps
-* Offline mode
+- [ ] Google talk-back for visually impaired people
+- [ ] Landscape mode
+- [ ] Custom markers on Google maps
+- [ ] Offline mode
 
 ### 2. Screen Archetypes
 
