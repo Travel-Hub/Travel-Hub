@@ -33,8 +33,8 @@ Travel-Hub is a travel app to allow people to explore the world right at your fi
 - [x] User can create post from any location in the world from the map.
 - [x] User can search for posts using hashtags or based on the location of their choice.
 - [ ] User can discover restaurants, museums, clubs, and hotels near a certain location
-- [x] Profile pages for each user
-- [x] Settings (Accesibility, Notification, General, etc.)
+- [ ] Profile pages for each user
+- [ ] Settings (Accesibility, Notification, General, etc.)
 
 
 **Optional Nice-to-have Stories**
